@@ -1,6 +1,7 @@
 # WifiHogger
-Hogger.py automates the process of a deauth attack using a tool called mdk3
+Hogger.py is a script that allows you to hog all the wifi to yourself via deauth packets.
 
-OS: Linux
 
-Tools required: mdk3, aircrack-ng
+Tools required: mdk3 or aircrack-ng
+Made in Kali Linux
+~c0rruptedb1t
